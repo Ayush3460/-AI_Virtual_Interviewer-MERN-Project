@@ -65,6 +65,14 @@ The dashboard includes:
 - 📊 Score and performance summary after each session
 - 📁 Interview history — review past sessions anytime
 - 👤 User profile management
+- HOME PAGE-
+   ( <img width="1920" height="1080" alt="Screenshot 2026-04-15 232228" src="https://github.com/user-attachments/assets/43bcd5b6-5f0b-4bcd-85bd-fca278238341" />)
+- INTERVIEWER-
+  (<img width="1920" height="1080" alt="Screenshot 2026-04-15 231542" src="https://github.com/user-attachments/assets/3f593677-f48f-438c-87af-8b5abcabc8cc" />)
+- PERFORMANCE REPORT-
+    (<img width="1920" height="1080" alt="Screenshot 2026-04-15 232148" src="https://github.com/user-attachments/assets/f65bcf0a-f54a-4c34-9907-e52dececdc6d" />)
+- CREDIT SYSTEM-
+  (<img width="1920" height="1080" alt="Screenshot 2026-04-15 232614" src="https://github.com/user-attachments/assets/c3fc4632-da0f-4d2a-918d-64492d225662" />)
 
 ---
 
